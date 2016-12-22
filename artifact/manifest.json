@@ -1,0 +1,13 @@
+{
+  "runtime": {
+    "majorVersion": "8"
+  },
+  "command": "java -jar employees-app-1.0-SNAPSHOT.war",
+  "release": {
+    "build": "20161222.1100",
+    "commit": "c8e5e4ba754cf1821e60673c2cdff4efcd910d8b",
+    "version": "0.0.1"
+  },
+  "notes": "tomcat maven plugin",
+  "mode": "rolling"
+}

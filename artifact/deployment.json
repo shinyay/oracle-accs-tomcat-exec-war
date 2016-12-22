@@ -1,0 +1,7 @@
+{
+  "memory": "2G",
+  "instances": "2", 
+  "environment": {
+    "SAMPLE_ENV":"SAMPLE"
+  }
+}
